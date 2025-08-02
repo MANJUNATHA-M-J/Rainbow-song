@@ -1,2 +1,2 @@
 # Rainbow-song
-Song for rainbow
+Song for rainbow in the key of major
